@@ -1,2 +1,2 @@
-# Crazy-For-You-PHP
-PRLM HandsOn Mod 1.2:PHP Lyric Remix
+# Crazy-For-You-PH
+#This is my PRLM HandsOn Activity 1.2
